@@ -1,0 +1,19 @@
+{
+  "name": "meowzah",
+  "version": "0.0.2",
+  "description": "Test meowz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinchandler/meowzah.git"
+  },
+  "author": "Kevin Chandler <im.kevin@icloud.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/kevinchandler/meowzah/issues"
+  },
+  "homepage": "https://github.com/kevinchandler/meowzah#readme"
+}
